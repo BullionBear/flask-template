@@ -1,3 +1,7 @@
+Multiply two numbers
+---
+tags:
+      - Math Operations
 parameters:
   - name: x
     in: query
