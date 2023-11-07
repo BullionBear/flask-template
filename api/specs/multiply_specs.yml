@@ -1,0 +1,12 @@
+parameters:
+  - name: x
+    in: query
+    type: integer
+    required: true
+  - name: y
+    in: query
+    type: integer
+    required: true
+responses:
+  200:
+    description: The result of the multiplication
